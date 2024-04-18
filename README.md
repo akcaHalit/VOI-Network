@@ -7,7 +7,7 @@
 
 > They stated that the testnet will last a total of `3 months` (`minimum`, subject to change depending on the time) in `3 stages`.
 
-> Rues Community: [Duyuru](https://t.me/RuesAnnouncement) - [Chat](https://t.me/RuesChat) - [Discord](https://discord.gg/t7qVBD6m) 
+> Rues Community: [Announcement](https://t.me/RuesAnnouncement) - [Chat](https://t.me/RuesChat) - [Discord](https://discord.gg/t7qVBD6m) 
 > [Whitepaper](https://afaf83a4-6c33-4e2a-a40c-9999410c0063.filesusr.com/ugd/7dc173_8e16834f2fbd4866a957d441f392d578.pdf)
 
 <h1 align="center">Hardware ve Updates</h1>
